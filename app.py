@@ -34,7 +34,7 @@ CONFIG = {
     "pv_alert_threshold": 0.55,
     "mutation_threshold": 0.15,
     "mutation_alert_threshold": 0.2,
-    "model_weight_path": "cloud_feature_mlp_model.pth",
+    "model_weight_path": "cloud_fusion_v3.pth",
     "feature_cols": [
         "thick_cloud_coverage", "thin_cloud_coverage", "cdoc_cloud_score",
         "cloud_area", "cloud_coverage", "cloud_mean_intensity",
