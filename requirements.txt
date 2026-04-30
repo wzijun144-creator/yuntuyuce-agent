@@ -1,0 +1,11 @@
+torch
+torchvision
+pandas
+numpy
+rasterio
+h5py
+opencv-python-headless
+scikit-image
+matplotlib
+streamlit
+plotly
